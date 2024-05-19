@@ -1,0 +1,10 @@
+title: Viknesh
+logo: logo.png
+author:
+  name: Viknesh Krishnan
+remote_theme: jekyll/minima
+
+header_pages:
+
+minima:
+  skin: auto
